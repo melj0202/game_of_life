@@ -1,0 +1,10 @@
+Username:  jaskulr
+Date:      Thu Nov 23 21:51:55 EST 2023
+ 
+/home/mathcs/courses/cs398b/functions: line 64: [: too many arguments
+#########################################
+# Compiling: cc -o life life.c -lcurses #
+#########################################
+###########################
+# I will run life by hand #
+###########################
