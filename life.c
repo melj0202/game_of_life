@@ -268,6 +268,7 @@ int main(int argc, char** argv)
                   default:
                         clear();
                         flash();
+			flushinp();
                         break;
 
             }
